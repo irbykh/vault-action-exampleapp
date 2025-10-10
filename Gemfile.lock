@@ -8,7 +8,7 @@ GEM
     multipart-post (2.1.1)
     mustermann (3.0.4)
       ruby2_keywords (~> 0.0.1)
-    rack (3.2.2)
+    rack (3.2.3)
     rack-protection (4.1.0)
       base64 (>= 0.1.0)
       logger (>= 1.6.0)
